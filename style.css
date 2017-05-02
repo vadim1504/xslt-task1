@@ -1,0 +1,57 @@
+html{
+    height: 100%;
+}
+body {
+    background-color: white;
+    font-family: 'Arvo', serif;
+    position: relative;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 50px;
+
+}
+div{
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+.redbox{
+    background-color: red;
+}
+.bluebox{
+    background-color: blue;
+}
+.centered{
+    text-align: center;
+}
+.comment{
+    background-color: darkgray;
+}
+.right{
+    text-align: right;
+}
+.roman{
+    font-family: "Times New Roman";
+}
+
+table{
+    width: 70%;
+    margin: auto;
+}
+th {
+    background: linear-gradient(#777777, #444444);
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    position: relative;
+}
+td {
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 10px 15px;
+    position: relative;
+    transition: all 200ms;
+}

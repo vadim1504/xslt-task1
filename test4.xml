@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<event id="4">
+	<doc-level type="redbox">
+		<para type="num">
+			<num>Number:</num>
+		</para>
+		<h1>The Englishman who inspired the Magical Magyars</h1>
+	</doc-level>
+	<doc-level position="centered">
+		<image source="moment1.jpg" description="History"/>
+	</doc-level>
+	<doc-level type="bluebox">
+		<para type="ordered-list" style="roman">
+			<list-item>It is almost exactly 100 years since Hogan first went to Hungary, via a spell in internship in Austria at the start of World War I.</list-item>
+			<list-item>Born in Nelson in 1882, the former Burnley, Fulham, Swindon and Bolton inside-forward was in his early 30s when he took charge of Budapest club MTK in 1914, introducing a brand of football that was to become known as "the Danubian Style" and sparking a national obsession with the game in a country where it had previously been largely ignored.</list-item>
+			<list-item>He briefly came home in 1918, where he was called a traitor by the Football Association for working abroad during the war, before embarking on a tour of Europe that saw him coach in Switzerland, Germany and back in Budapest during the 1920s. He helped Switzerland reach the final of the 1926 Olympics and more titles with MTK followed.</list-item>
+			<list-item>It was in the 1930s that he began to be appreciated by a wider audience, working with Hugo Meisl's legendary Austrian national side during a period when they were known as the 'Wunderteam'  before being appointed Fulham manager in 1934.</list-item>
+		</para>
+	</doc-level>
+	<doc-level type="comment">
+		<h1>The end of England's invincibility</h1>
+		<h2>Jimmy Hogan</h2>
+		<subheading>Hogan's travels</subheading>
+	</doc-level>
+	<doc-level position="right">
+		<image source="moment2.jpg" description="Legacy"/>
+	</doc-level>
+	<table>
+		<table-heading>What's going on?</table-heading>
+		<table-row>
+			<table-cell colspan="2">Football industry - and art</table-cell>
+		</table-row>
+		<table-row>
+			<table-cell>Hogan's legacy lives on</table-cell>
+			<table-cell>Witnessing the 'Match of the Century'</table-cell>
+		</table-row>
+	</table>
+</event>
